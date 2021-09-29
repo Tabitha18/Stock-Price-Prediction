@@ -1,1 +1,3 @@
 # Stock-Price-Prediction
+## Introduction
+The goal of this project is to use the Long Short Term Memory Network (LSTM), a machine learning model (deep learning) to predict stock prices using a specific company, AMC Theatres. The project is done soley as a course requirement to enhance programming and predictive machine learning skills for real world problems. Using machine learning for predictions in the stock market can be very complicated. It should be emphasized that the model in this project should not be used as a financial advice to make investments in the stock market. The the model used in this project can provide some basic knowledge on short term price momentum. The model in this project can be improved through careful feature engineering.  
